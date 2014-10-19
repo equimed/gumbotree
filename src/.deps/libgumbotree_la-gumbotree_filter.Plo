@@ -1,0 +1,16 @@
+libgumbotree_la-gumbotree_filter.lo: gumbotree_filter.c \
+ /usr/include/stdc-predef.h ../config.h /usr/local/include/gumbo.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.2/include/stdbool.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.2/include/stddef.h gumbotree.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+/usr/local/include/gumbo.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.2/include/stdbool.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.2/include/stddef.h:
+
+gumbotree.h:
